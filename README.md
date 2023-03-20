@@ -1,8 +1,5 @@
 # Build and Deploy a Fantastic 3D Portfolio Website with Three.js and React.js
 
-## Introduction
-The existence of React Native makes React one of the most valuable skills to have. Learn how to transform 75% of your knowledge from making websites into building mobile applications today!
-
 This project contains the following:
 - ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
 - React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
