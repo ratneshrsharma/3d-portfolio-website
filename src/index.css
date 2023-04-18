@@ -22,13 +22,13 @@
 .black-gradient {
   background: #000000; /* fallback for old browsers */
   background: -webkit-linear-gradient(
-    to right,
-    #434343,
+    to top,
+    #252525,
     #000000
   ); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(
-    to right,
-    #434343,
+    to top,
+    #252525,
     #000000
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
@@ -111,6 +111,22 @@
     #fc6767
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.red-gradient {
+  background: #880808; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to top,
+    #0f0202,
+    #880808
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to top,
+    #0f0202,
+    #880808
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  /* -webkit-background-clip: text; */
   -webkit-text-fill-color: transparent;
 }
 

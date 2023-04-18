@@ -80,11 +80,7 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
-          Following projects showcases my skills and experience through
-          real-world examples of my work. Each project is briefly described with
-          links to code repositories and live demos in it. It reflects my
-          ability to solve complex problems, work with different technologies,
-          and manage projects effectively.
+          I have been working in the IT industry for over 14 years and have worked on a variety of projects, from small internal team projects to large-scale enterprise applications. I strive to provide quality work that will meet your needs and expectations, regardless of the size, scope, or complexity of your project.
         </motion.p>
       </div>
 

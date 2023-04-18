@@ -7,14 +7,11 @@ import {
   typescript,
   html,
   css,
+  sass_less,
   reactjs,
-  redux,
+  nextjs,
+  mobx,
   tailwind,
-  nodejs,
-  mongodb,
-  git,
-  figma,
-  docker,
   meta,
   starbucks,
   tesla,
@@ -22,7 +19,7 @@ import {
   carrent,
   jobit,
   tripguide,
-  threejs,
+  photoshop,
 } from "../assets";
 
 export const navLinks = [
@@ -42,19 +39,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Web App Developer",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "UI/UX Developer",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "HTML/CSS Developer",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "WordPress Website Creator",
     icon: creator,
   },
 ];
@@ -69,6 +66,14 @@ const technologies = [
     icon: css,
   },
   {
+    name: "Scss & Less",
+    icon: sass_less,
+  },
+  // {
+  //   name: "Less",
+  //   icon: less,
+  // },
+  {
     name: "JavaScript",
     icon: javascript,
   },
@@ -81,37 +86,33 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "Next JS",
+    icon: nextjs,
+  },
+  {
+    name: "MobX",
+    icon: mobx,
   },
   {
     name: "Tailwind CSS",
     icon: tailwind,
   },
-  {
-    name: "Node JS",
-    icon: nodejs,
-  },
-  {
-    name: "MongoDB",
-    icon: mongodb,
-  },
-  {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
-    name: "git",
-    icon: git,
-  },
-  {
-    name: "figma",
-    icon: figma,
-  },
-  {
-    name: "docker",
-    icon: docker,
-  },
+  // {
+  //   name: "git",
+  //   icon: git,
+  // },
+  // {
+  //   name: "figma",
+  //   icon: figma,
+  // },
+  // {
+  //   name: "Photoshop",
+  //   icon: photoshop,
+  // },
+  // {
+  //   name: "Illustrator",
+  //   icon: docker,
+  // },
 ];
 
 const experiences = [
